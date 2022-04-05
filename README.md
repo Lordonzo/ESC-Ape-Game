@@ -1,4 +1,4 @@
-# css-game 
+# ESC-Ape Game, a CSS Game
 
 Bienvenue dans ce jeu intitulé ESC-APE GAME. Notre jeu consiste tout simplement à aider le singe à sortir du zoo. :monkey_face:
 
